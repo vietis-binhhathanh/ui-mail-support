@@ -1,0 +1,22 @@
+{
+  "name": "ui-mail-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietis-binhhathanh/ui-mail-support.git"
+  },
+  "author": "binh.hathanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietis-binhhathanh/ui-mail-support/issues"
+  },
+  "homepage": "https://github.com/vietis-binhhathanh/ui-mail-support#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
