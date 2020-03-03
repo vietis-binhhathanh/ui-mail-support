@@ -1,0 +1,31 @@
+@keyframes animate {
+  0% {
+    background-position: 0;
+  }
+
+  100% {
+    background-position: 1360px;
+  }
+}
+
+@keyframes animate-reverse {
+  0% {
+    background-position: 1360px;
+  }
+
+  100% {
+    background-position: 0;
+  }
+}
+
+@keyframes bg-change {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 51%}
+  100%{background-position:0% 50%}
+}
+
+@keyframes svg-text {
+  100% {
+    stroke-dashoffset: 100;
+  }
+}
